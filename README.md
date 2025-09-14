@@ -30,8 +30,7 @@ It transforms messy spreadsheets into clean, analysis-ready data in seconds.
 ---
 
 ## 🚀 Live App
-Click below to try it instantly (no install required):  
-👉 [Excel Cleaner Pro v1 on Streamlit](https://excel-cleaner-pro-v1-xxxxx.streamlit.app)
+https://excel-cleaner-pro-v1-sw2rpcefuebsh3wzdoqb3v.streamlit.app/
 
 ---
 
